@@ -14,6 +14,11 @@ def main():
 	# if 
 	print("content: {}".format(read_json["content"]))
 	print("total entries: {}".format(read_json["total entries"]))
+	items = read_json["items"]
+	print("items: {}".format(items))
+	for item in items:
+		print(item)
+
 
 if __name__ == "__main__":
     main()
