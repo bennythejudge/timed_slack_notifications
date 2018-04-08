@@ -2,17 +2,20 @@
 	"content": "timed events",
 	"total entries": "3",
 	"items": [{
-			"timestamp": "2018-04-05T22:10:00",
+			"date": "2018-04-05",
+			"time": "22:10:00",
 			"message": "skkskkskksksksksk <https://www.google.com>",
 			"url": "https://sysdig.slack.com/ahahhahahhahauauahiahihai"
 		},
 		{
-			"timestamp": "2018-04-05T22:10:00",
+			"date": "2018-04-05",
+			"time": "22:10:00",
 			"message": "skkskkskksksksksk <https://www.google.com>",
 			"url": "https://sysdig.slack.com/ahahhahahhahauauahiahihai"
 		},
 		{
-			"timestamp": "2018-04-05T22:10:00",
+			"date": "2018-04-05",
+			"time": "22:10:00",
 			"message": "skkskkskksksksksk <https://www.google.com>",
 			"url": "https://sysdig.slack.com/ahahhahahhahauauahiahihai"
 		}
