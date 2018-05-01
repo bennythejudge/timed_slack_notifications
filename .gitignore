@@ -37,3 +37,8 @@ nosetests.xml
 
 .pytest_cache/
 venv
+
+# secrets
+secrets
+secret*
+timed_slack_notifications.json
