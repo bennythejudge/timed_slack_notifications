@@ -55,7 +55,8 @@ def main():
 			# datetime.datetime(2012,4,1,0,0).timestamp()
 			# prepare for a cron entry
 			# convert timestamp to a one off cron entry
-			# prepare the 
+			# prepare the
+			time.sleep(1)
 
 if __name__ == "__main__":
     main()
